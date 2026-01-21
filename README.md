@@ -1,4 +1,4 @@
-## Seznam sbírek ke studii Toponyma v lyrice a epice (Slovo a slovesnost)
+## Seznam sbírek ke studii Hustota toponym v lyrice a epice. Na materiálu české poezie 2. poloviny 19. století (Slovo a slovesnost, 2026). Obrazový doprovod (Mapa 1: Toponyma u Elišky Krásnohorské, Mapa 2: Toponyma u Elišky Krásnohorské a Jaroslava Vrchlického, zdroj https://versologie.cz/poetree/map/)
 
 <!--
 **Toponyma/Toponyma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
