@@ -6,9 +6,9 @@ Obsah složky:
 
 Tabulka: Seznam analyzovaných sbírek
 
-Mapa 1: Užití toponym v poezii Elišky Krásnohorské (zdroj: 
+Mapa 1: Užití toponym v poezii Elišky Krásnohorské, zdroj: https://versologie.cz/poetree/map/
 
-Mapa 2: Srovnání užití toponym v poezii Elišky Krásnohorské (fialová) a Jaroslava Vrchlického (žlutá) (zdroj: 
+Mapa 2: Srovnání užití toponym v poezii Elišky Krásnohorské (fialová) a Jaroslava Vrchlického (žlutá), zdroj: https://versologie.cz/poetree/map/ 
 
 O datech:
 Data slouží ke kvantitativní analýze výskytu a funkce toponym (zeměpisných jmen) v závislosti na literárním druhu (lyrika vs. epika).
