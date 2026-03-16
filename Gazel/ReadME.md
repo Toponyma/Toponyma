@@ -14,7 +14,7 @@ The complete list of analyzed texts is available in the `Gazely_metra` table. Th
 * **Collection** (*Sbírka*)
 * **Date of publication** (*Datace*)
 * **Meter** (*Metrum*)
-* **Line length / Metrical dimension** (*Rozměr*)
+* **Line length** (*Rozměr*)
 * **Rhyme scheme** (*Rýmové schéma*)
 * **Radif** (*Radíf*)
 * **Number of lines** (*Počet veršů*)
