@@ -1,4 +1,4 @@
-🇬🇧 [Read in English](#-english-version) | 🇨🇿 [Číst česky](#-česká-verze)
+🇬🇧 [Read in English](#english-version) (📚 [How to Cite](#how-to-cite)) | 🇨🇿 [Číst česky](#česká-verze) (📚 [Jak citovat](#jak-citovat))
 
 ---
 
