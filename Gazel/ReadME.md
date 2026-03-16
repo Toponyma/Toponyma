@@ -47,3 +47,20 @@ Kompletní seznam analyzovaných textů je dostupný v tabulce `Gazely_metra`. K
 
 ### O datech
 Tento kvantitativní výzkum sleduje, jak se původně perská forma chová v odlišném jazykovém a kulturním prostředí střední Evropy během 19. a první poloviny 20. století. Korpus byl sestaven primárně s využitím infrastruktury korpusu *PoeTree.cs* a doplněn o ručně excerpované časopisecké publikace.
+
+### How to Cite
+If you use this dataset in your research, please cite it as follows:
+
+**APA Format:**
+[Last Name, First Name]. (2026). *Dataset for: Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii* [Data set]. GitHub. Dataset accompanying the study published in *Svět literatury* (2026). [Link to repository or DOI]
+
+**BibTeX:**
+```bibtex
+@misc{ghazals_czech_2026,
+  author       = {[Kolár, Robert]},
+  title        = {Dataset for: Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii},
+  year         = {2026},
+  publisher    = {GitHub},
+  note         = {Dataset accompanying the study published in the journal Svět literatury (2026)},
+  howpublished = {\url{[Link to repository or DOI]}},
+}
