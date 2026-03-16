@@ -52,7 +52,7 @@ Tento kvantitativní výzkum sleduje, jak se původně perská forma chová v od
 If you use this dataset in your research, please cite it as follows:
 
 **APA Format:**
-[Last Name, First Name]. (2026). *Dataset for: Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii* [Data set]. GitHub. Dataset accompanying the study published in *Svět literatury* (2026). [Link to repository or DOI]
+[Kolár, Robert]. (2026). *Dataset for: Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii* [Data set]. GitHub. Dataset accompanying the study published in *Svět literatury* (2026). [Link to repository or DOI]
 
 **BibTeX:**
 ```bibtex
