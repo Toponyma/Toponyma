@@ -40,3 +40,43 @@ If you use this dataset in your research, please cite it as follows:
   note         = {Dataset accompanying the study published in the journal Svět literatury (2026)},
   howpublished = {\url{[Link to repository or DOI]}},
 }
+---
+
+## 🇨🇿 Česká verze
+
+Tento repozitář obsahuje datový soubor 253 básní (českých gazelů), který tvoří materiálovou základnu pro studii *Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii*.
+
+### Obsah datasetu
+Kompletní seznam analyzovaných textů je dostupný v tabulce `Gazely_metra`. Ke každému textu jsou k dispozici následující metadata:
+
+* **Autor**
+* **Báseň** (incipit nebo název)
+* **Sbírka**
+* **Datace**
+* **Metrum**
+* **Rozměr**
+* **Rýmové schéma**
+* **Radíf**
+* **Počet veršů**
+* **Grafické členění**
+* **Syntaktické členění**
+
+### O datech
+Tento kvantitativní výzkum sleduje, jak se původně perská forma chová v odlišném jazykovém a kulturním prostředí střední Evropy během 19. a první poloviny 20. století. Korpus byl sestaven primárně s využitím infrastruktury korpusu *PoeTree.cs* a doplněn o ručně excerpované časopisecké publikace.
+
+### Jak citovat
+Pokud tento dataset využijete ve svém výzkumu, citujte jej prosím následovně:
+
+**Textová citace:**
+[Tvoje Příjmení, Tvoje Jméno]. (2026). *Datový soubor ke studii: Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii* [Dataset]. GitHub. Dataset k případové studii publikované v časopise *Svět literatury* (2026). Dostupné z: [Odkaz na repozitář nebo DOI]
+
+**BibTeX:**
+```bibtex
+@misc{gazely_ceske_2026,
+  author       = {[Tvoje Příjmení, Tvoje Jméno]},
+  title        = {Datový soubor ke studii: Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii},
+  year         = {2026},
+  publisher    = {GitHub},
+  note         = {Dataset k případové studii publikované v časopise Svět literatury (2026)},
+  howpublished = {\url{[Odkaz na repozitář nebo DOI]}},
+}
