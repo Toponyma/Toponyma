@@ -4,7 +4,7 @@
 
 ## 🇬🇧 English Version
 
-This repository contains a dataset of 253 poems (Czech ghazals), which serves as the material basis for the study *Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii* [My soul delights in your rhymes... Transformations of the ghazal in Czech poetry].
+This repository contains a dataset of 253 poems (Czech ghazals), which serves as the material basis for the study *Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii* [My soul delights in your rhymes... Transformations of the ghazal in Czech poetry] published in *Svět literatury* (2026).
 
 ### Dataset Contents
 The complete list of analyzed texts is available in the `Gazely_metra` table. The following metadata is provided for each text:
@@ -28,7 +28,7 @@ This quantitative research examines how an originally Persian poetic form behave
 
 ## 🇨🇿 Česká verze
 
-Tento repozitář obsahuje datový soubor 253 básní (českých gazelů), který tvoří materiálovou základnu pro studii *Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii*.
+Tento repozitář obsahuje datový soubor 253 básní (českých gazelů), který tvoří materiálovou základnu pro studii *Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii* publikovanou v *Svět literatury* (2026).
 
 ### Obsah datasetu
 Kompletní seznam analyzovaných textů je dostupný v tabulce `Gazely_metra`. Ke každému textu jsou k dispozici následující metadata:
