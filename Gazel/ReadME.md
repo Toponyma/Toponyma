@@ -33,7 +33,7 @@ If you use this dataset in your research, please cite it as follows:
 **BibTeX:**
 ```bibtex
 @misc{ghazals_czech_2026,
-  author       = {[Last Name, First Name]},
+  author       = {[Kolár, Robert]},
   title        = {Dataset for: Ve tvých rýmech duše má se kochá… Proměny gazelu v české poezii},
   year         = {2026},
   publisher    = {GitHub},
